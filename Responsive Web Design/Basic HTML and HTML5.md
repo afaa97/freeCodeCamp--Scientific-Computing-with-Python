@@ -1,11 +1,16 @@
-![rmotr](https://user-images.githubusercontent.com/7065401/52071918-bda15380-2562-11e9-828c-7f95297e4a82.png)
-![rmotr](/src/images/logo.png)
+<!-- LOGO and Header -->
+<div>
+    <img style="float:left" src="../src/images/logo.png" width="50" alt="logo">
+    <h1 style="position:relative; left:20px; top:7px;">
+    1. Basic HTML and HTML5
+    </h1>    
+</div>
 
-<img src="../src/images/logo.png" width="300">
+<!-- Divider -->
+<img style="margin-bottom:10px; margin-top:10px" src="../src/images/purple_divider.png" alt="purple divider">
 
-<hr style="margin-bottom: 40px;">
 
-<h2>Say Hello to HTML Elements</h2>
+<h2>1.1. Say Hello to HTML Elements <a style="float:right" href="www.google.com">(source)</a></h2>
 
 HTML elements are written with a start tag, with an end tag, with the content in between:
 
@@ -17,7 +22,7 @@ Opening tags look like this: `<h1>`. Closing tags look like this: `</h1>`.
 
 Note that the only difference between opening tags and closing tags is that closing tags have a slash after their opening angle bracket.
 
-![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
+
 
 <h2>Challenge</h2>
 
@@ -26,4 +31,6 @@ Change your h1 element's text to say Hello World.
 ```html
 <h1>Hello</h1>
 ```
-> [Source](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
+
+
+<img style="margin-bottom:10px; margin-top:10px" src="../src/images/green_divider.png" alt="green divider">
