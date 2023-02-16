@@ -1,14 +1,10 @@
 <!-- LOGO and Header -->
 <div>
-    <img style="float:left" src="../src/images/logo.png" width="50" alt="logo">
-    <h1 style="position:relative; left:20px; top:7px;">
-    1. Basic HTML and HTML5
-    </h1>    
+    <img align="left" src="../src/images/logo.png" width="45">
+    <h1 style="border-bottom: none">
+        Basic HTML and HTML5 <img src="../src/images/purple_divider.png">
+    </h1>
 </div>
-
-<!-- Divider -->
-<img style="margin-bottom:10px; margin-top:10px" src="../src/images/purple_divider.png" alt="purple divider">
-
 
 <h2>1.1. Say Hello to HTML Elements <a style="float:right" href="www.google.com">(source)</a></h2>
 
@@ -31,6 +27,3 @@ Change your h1 element's text to say Hello World.
 ```html
 <h1>Hello</h1>
 ```
-
-
-<img style="margin-bottom:10px; margin-top:10px" src="../src/images/green_divider.png" alt="green divider">
